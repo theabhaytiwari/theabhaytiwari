@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @theabhaytiwari
+- 👀 I’m interested in Computers and everything related.
+- 🌱 I’m currently learning C language.
+- 📫 You can mail me at emailatabhay@gmail.com
